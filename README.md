@@ -32,7 +32,9 @@ $ ./nombre_programa 25 10 100 200 20 30
 ## Creditos
 
 @author Jose Manuel Rodriguez Montes
+
 @version 1.0, 22 de Mayo de 2017
+
 GNU GENERAL PUBLIC LICENSE
 
 ## Futuras Versiones
