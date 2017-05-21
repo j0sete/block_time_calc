@@ -15,11 +15,8 @@ Para ejecutarlo hay que pasarle los valores en argumentos, la forma sera:
 Donde:
 
 * **c_i**: Es el peor tiempo de ejecucion de una tarea.
-
 * **numero_iteraciones**: Numero de iteraciones que queremos realizar.
-
 * **T_j**: Los periodos de las tareas de prioridad superior
-
 * **C_j**: Los tiempos de ejecucion de las tareas de prioridad superior.
 
 Los tiempos de ejecucion *C_j* estaran a una distancia n de su periodo, siendo n el numero de tareas de prioridad superior.
@@ -41,7 +38,5 @@ GNU GENERAL PUBLIC LICENSE
 ## Futuras Versiones
 
 * Documentacion en ingles.
-
 * Incorporacion de tabla con listado de tareas. Eliminamos el proceso de pasar todo los datos por argumentos y calcular tarea a tarea.
-
 * Posibilidad de busqueda de convergencia por parte del programa.
